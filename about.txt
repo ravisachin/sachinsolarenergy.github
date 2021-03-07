@@ -1,0 +1,82 @@
+
+<html>
+<head>
+<link rel="stylesheet"href="css/bootstrap.min.css">
+<title>about</title>
+</head>
+
+<style>
+body{
+background-color:#DAF7A6;
+}
+
+h1{
+background-color:#8795F5;
+color:#F2F20F;
+font-family:'algerian';
+font-size:40px;
+width:1700px;
+height:130px;
+text-align:left;
+}
+
+
+
+</style>
+<body>
+<h1><u><i>Sun Avenu Solar Energy</u></i>
+<br/>
+<a href="https://www.facebook.com/HUM-Enterprises-494109724000375/">Um Enterprices</a><center>
+<button type="button" class="btn btn-info"><a href="html.html">Home</a></button>
+<button type="button" class="btn btn-warning"><a href="about.html">About</a></button>
+<button type="button" class="btn btn-info"><a href="project.html">Project</a></button>
+<button type="button" class="btn btn-warning"><a href="services.html">Services</a></button>
+<button type="button" class="btn btn-info"><a href="clients.html">Client</a></button>
+<button type="button" class="btn btn-warning"><a href="contact.html">Contact</a></button> </h1>
+<div class="container">
+<a target="_blank" href="https://twitter.com/nsefi_official">
+<svg style="width:2em;height:2em;position:fixed;top:1em;left:1em;opacity:.8;" viewBox="0 0 24 24"><path fill="#fff" d="M17.71,9.33C18.19,8.93 18.75,8.45 19,7.92C18.59,8.13 18.1,8.26 17.56,8.33C18.06,7.97 18.47,7.5 18.68,6.86C18.16,7.14 17.63,7.38 16.97,7.5C15.42,5.63 11.71,7.15 12.37,9.95C9.76,9.79 8.17,8.61 6.85,7.16C6.1,8.38 6.75,10.23 7.64,10.74C7.18,10.71 6.83,10.57 6.5,10.41C6.54,11.95 7.39,12.69 8.58,13.09C8.22,13.16 7.82,13.18 7.44,13.12C7.81,14.19 8.58,14.86 9.9,15C9,15.76 7.34,16.29 6,16.08C7.15,16.81 8.46,17.39 10.28,17.31C14.69,17.11 17.64,13.95 17.71,9.33M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2Z" /></svg></a>
+<div class="row">
+<div class="col-md-4">
+<img src="images/3.png">
+<h4><b>Solar Rooftop Systems for Residential</b><br/>
+Solar Panels – convert sunrays into electricity,Inverter – aggregates generation from each panel and connects, converts to grid electricity (AC – grid voltage)</h4>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="images/5.png">
+<h4><b>Solar Panel Light System</b><br/>
+Poorly designed presentations are a thing of the past. Create beautiful and high-quality content that is aligned.</h4>
+
+</div>
+<div class="col-md-4">
+<br/>
+
+<div class="panel panel-default">
+<div class="panel-body">
+<center><img src="images/1.jpg">
+<br/>
+<h4><b>The future is Solar Energy Install Today</b></h4><br/>
+SOLAR POWER IS USABLE 100% CLEAN GREEN ENERGY (ELECTRICITY ) GENERATED FROM THE SUN .SOLAR ENERGY SYSTEMS DOES NOT PRODUCED ANY KIND OF POLLUTION .IT REDUCES REALIANCE ON OIL ,COAL AND NATURAL GAS FOR ELECTRICITY PRODUCTION NOT ONLY IT IS COMPLETELY RENEWABLE ALSO PROTECT THE ENVIRONMENT .
+SOLAR ENERGY IS THAT IT CAN HELP TO MINIMIZED UTILITY BILLS BY INSTALLING SOLAR PANELS .ALSO SOLAR PANELS REQUIRES LITTLE MAINTENANCE AFTER INSTALLATION AND INITIAL COST THAT IS INCURRED ONCE CAN RECOVERED IN LONG RUN THAT REAGES FROM 15 YEARS TO 20 YEARS.
+I LIKE TO MENTION HERE QUOTE .
+“WE ARE LIKE TENANT FARMERS CHOPPING DOWN THE FENCE AROUND OUR HOUSE FOR FUEL WHEN WE SHOULD BE USING NATURES INEXHAUSTIBLE SOURCE OF ENERGY –SUN ,WIND AND TIDE …….I HAD PUT MY MONEY ON THE SUN AND SOLAR ENERGY .WHAT A SOURCE OF POWER ! I HOPE WE DON’T HAVE TO WAIT UNTIL OIL AND COAL RUN OUT BEFORE WE TACKLE THAT .”</h2>
+<h4><b>THOMAS ALVA EDISON</b><br/>
+<b>(By-YOGESH J INGLE) </b></h4>
+
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<img src="images/4.jpg">
+<h4><b>Commercial and Industrial Use (Heat & Electricity)</b><br/>
+Poorly designed presentations are a thing of the past. Create beautiful and high-quality content that is aligned.<h4/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="images/6.jpg">
+<h4><b>Solar Water Heater</b><br/>
+Poorly designed presentations are a thing of the past. Create beautiful and high-quality content that is aligned.</h4>
+</div>
+</div>
+</body>
+</html>
+
+
+

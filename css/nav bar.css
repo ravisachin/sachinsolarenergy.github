@@ -1,0 +1,52 @@
+
+<html>
+<head>
+     <title>  
+         Welcome to my website 
+     </title>
+
+     <style>
+
+body{
+margin-left:-0px;
+margin-top:0px;
+}
+ul{
+position:fixed;
+}
+li{
+display:inline;
+font-size:20px;
+padding-left:15px;
+}
+li:hover{
+background-color:#DAF7A6;
+}
+h1{
+background-color:#FF33CD;
+color:#DAF7A6;
+font-family:'algerian';
+font-size:70px;
+width:1700px;
+text-align:center;
+}
+h4{
+text-align:justify;
+padding:4px;
+background-color:#129887;
+
+
+}
+</style>
+</head>
+<body>
+<h1>Welcome To IBase</h1>
+<ul>
+<li> Home</li> <li> About Us</li> <li> About Us</li> <li> Achievements</li><li> Gallery</li><li> Contact Us</li>
+</ul>
+
+
+</body>
+</html>
+
+  

@@ -1,0 +1,73 @@
+
+<html>
+<head>
+<link rel="stylesheet"href="css/bootstrap.min.css">
+<link rel="stylesheet"href="css/bootstrap-theme.min.css">
+<link rel="stylesheet"href="css/bootstrap-theme.min.css.map.css">
+<title>Contact</title>
+</head>
+
+<style>
+body{
+background-color:#94FEC0;
+}
+h1{
+background-color:#8795F5;
+color:#F2F20F;
+font-family:'algerian';
+font-size:40px;
+width:1700px;
+height:130px;
+text-align:left;
+}
+h3{
+font-family:'algerian';
+}
+</style>
+<body>
+
+<h1><u><i>Sun Avenu Solar Energy</u></i>
+<br/>
+<a href="https://www.facebook.com/HUM-Enterprises-494109724000375/">Um Enterprices</a><center>
+<button type="button" class="btn btn-info"><a href="html.html">Home</a></button>
+<button type="button" class="btn btn-warning"><a href="about.html">About</a></button>
+<button type="button" class="btn btn-info"><a href="project.html">Project</a></button>
+<button type="button" class="btn btn-warning"><a href="services.html">Services</a></button>
+<button type="button" class="btn btn-info"><a href="clients.html">Client</a></button>
+<button type="button" class="btn btn-warning"><a href="contact.html">Contact</a></button> </h1>
+<div class="container">
+
+<center><h2><b>Get in touch</b></h2><br/>
+<center>Free to contact us
+
+<div class="row">
+<div class="col-md-6">
+<br/>
+<div class="panel panel-default">
+<div class="panel-body">
+<center><h3>Lets talk about the project</h3><br/>
+You can contact use for any kind of installaion. We offer worlds best class and highly efficient services. You can submit your message by filling the form given at right side
+<br/><br/><br/>
+ Shree Residencial Plot No 37, Revati Nagar, Near Pandav college, Besa Nagpur, MS, INDIA<br/>
+ +918983664422 <a href="tel:+918983664422">Call</a><br/>
+<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> info@sunavenuesolar.in <a href="mailto:ravisachin36@gmail.com.in">Send Mail</a><br/>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<br/>
+<div class="panel panel-default">
+<div class="panel-body">
+
+<h3>Name:-</h3><input type="text" class="form-control" placeholder="Enter Your Name"><br/>
+<h3>Contact Number:-</h3> <input type="text" class="form-control" placeholder="Enter Your Contact No"><br/>
+<h3>Email Address:-</h3> <input type="text" class="form-control" placeholder="Enter Your Email"><br/>
+<h3>Message:-</h3> <input type="text" class="form-control" placeholder="Enter Message"><br/>
+<td class="danger" ><input type="submit" class="btn btn-danger" value="Submit"><td>
+</div>
+</div>
+</div>
+
+</body>
+</html>

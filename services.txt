@@ -1,0 +1,92 @@
+
+<html>
+<head>
+<link rel="stylesheet"href="css/bootstrap.min.css">
+<title>Servies</title>
+</head>
+
+<style>
+body{
+background-color:#FFBF69;
+}
+h1{
+background-color:#8795F5;
+color:#F2F20F;
+font-family:'algerian';
+font-size:40px;
+width:1700px;
+height:130px;
+text-align:left;
+}
+</style>
+<body>
+
+<h1><u><i>Sun Avenu Solar Energy</u></i>
+<br/>
+<a href="https://www.facebook.com/HUM-Enterprises-494109724000375/">Um Enterprices</a><center>
+<button type="button" class="btn btn-info"><a href="html.html">Home</a></button>
+<button type="button" class="btn btn-warning"><a href="about.html">About</a></button>
+<button type="button" class="btn btn-info"><a href="project.html">Project</a></button>
+<button type="button" class="btn btn-warning"><a href="services.html">Services</a></button>
+<button type="button" class="btn btn-info"><a href="clients.html">Client</a></button>
+<button type="button" class="btn btn-warning"><a href="contact.html">Contact</a></button> </h1>
+<div class="container">
+
+<div class="row">
+<div class="col-md-4">
+<br/>
+<div class="panel panel-default">
+<div class="panel-body">
+<center><h3><u><b>Street Light</b></u></h3><br/>
+<img src=images/10.jpg><br/>
+Available with high quality LeD's with inbuilt software for dusk to down management
+</div>
+</div>
+<br/>
+<div class="panel panel-default">
+<div class="panel-body">
+<center><h3><u><b>Solar Water Heating</b></u></h3><br/>
+<img src=images/18.jpg><br/>
+Solar water heating (SWH) is heating water by sunlight, using a solar thermal collector.
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<br/>
+<div class="panel panel-default">
+<div class="panel-body">
+<center><h3><u><b>Solar Pv Solution</b></u></h3><br/>
+<img src=images/16.jpg><br/>
+Available with high quality solar panels and lithium iron batteries in both centralized and distributed design
+</div>
+</div>
+<br/>
+<div class="panel panel-default">
+<div class="panel-body">
+<center><h3><u><b>Solar Module Mouting Structure</b></u></h3><br/>
+<img src=images/19.jpg><br/>
+Photovoltaic system, also PV system or solar power system, is a power system designed to supply usable solar power by means of photovoltaics.
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<br/>
+<div class="panel panel-default">
+<div class="panel-body">
+<center><h3><u><b>Solar Hybride Solution</b></u></h3><br/>
+<img src=images/17.jpg><br/>
+Our Optimized hybrid configuration take advantage of the solar panels to effectively provide you with 4-8 unit of power per day.
+</div>
+</div>
+<br/>
+<div class="panel panel-default">
+<div class="panel-body">
+<center><h3><u><b>Bank Finance Available</b></u></h3><br/>
+<img src=images/20.jpg>
+</div>
+</div>
+</div>
+</body>
+</html>

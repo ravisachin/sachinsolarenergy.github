@@ -1,0 +1,56 @@
+
+<html>
+<head>
+<link rel="stylesheet"href="css/bootstrap.min.css">
+<title>Project</title>
+</head>
+
+<style>
+body{
+background-color:#FFBF69;
+}
+h1{
+background-color:#8795F5;
+color:#F2F20F;
+font-family:'algerian';
+font-size:40px;
+width:1700px;
+height:130px;
+text-align:left;
+}
+@kryframes img{
+from{transform:scale(.0);}
+to{transform:scale(1.5);}
+}
+div.hover{
+width:80px;
+height:80px;
+}
+</style>
+<body>
+<h1><u><i>Sun Avenu Solar Energy</u></i>
+<br/>
+<a href="https://www.facebook.com/HUM-Enterprises-494109724000375/">Um Enterprices</a><center>
+<button type="button" class="btn btn-info"><a href="html.html">Home</a></button>
+<button type="button" class="btn btn-warning"><a href="about.html">About</a></button>
+<button type="button" class="btn btn-info"><a href="project.html">Project</a></button>
+<button type="button" class="btn btn-warning"><a href="services.html">Services</a></button>
+<button type="button" class="btn btn-info"><a href="clients.html">Client</a></button>
+<button type="button" class="btn btn-warning"><a href="contact.html">Contact</a></button> </h1>
+
+
+<center><h2><b>Our Projects</b></h2><br/>
+<center>We install various projects in home and commerial zones
+<br/><br/><br/><br/>
+<div>
+<img src="images/9.jpg">
+</div>
+<br/><br/>
+<a href="https://www.mahaurja.com/meda/en/grid_connected_power/solar_power">ALL WORK</a><br/>
+<a href="https://renewpower.in/rooftop-solar/">Roof Top Installation</a><br/>
+<a href="https://www.targray.com/media/articles/solar-project-types">Commercial & Industrial</a><br/>
+<a href="https://www.researchgate.net/publication/237322532_Design_of_Advanced_Solar_Water_Heaters">Solar Water Heater</a><br/>
+<a href="https://studentenergy.org/source/solar/?gclid=CjwKCAiApNSABhAlEiwANuR9YNmnb0RjFfjbbMxxs7H4t14uo2t27SVmn8SidjuIEaFnp6v7NYv29hoCJfYQAvD_BwE">Other</a>
+
+</body>
+</html>
